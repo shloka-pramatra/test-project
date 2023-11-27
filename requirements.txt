@@ -1,6 +1,5 @@
 jupyterlab
 nbclient
 ipykernel
-python
-pylance
+ipython
 pandas
